@@ -1,1 +1,3 @@
 # seir-mae
+
+Jesse Gumtow
